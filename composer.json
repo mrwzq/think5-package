@@ -1,0 +1,17 @@
+{
+  "name": "wangzq/think5-package",
+  "description": "thinkphp5 framwork packages for Wangzq",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "wangzq",
+      "email": "291768903@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "topthink/framework": "^5.1"
+  }
+}
